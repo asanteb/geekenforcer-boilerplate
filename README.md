@@ -6,7 +6,7 @@ This is a template my site: www.geekenforcer.com. Any actual changes for the sit
 ## To run the project:
 Clone the repo
 ```shell
-npm install && node run
+npm install && node server
 ```
 *This installs the latest build from the repo*
 
