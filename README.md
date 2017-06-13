@@ -1,4 +1,5 @@
 # geekenforcer-boilerplate
+![alt text](https://s3-us-west-2.amazonaws.com/geekenforcer.com/header_red.png)
 
 This is a template my site: www.geekenforcer.com. Any actual changes for the site will be reflected in the site's own repo. This is a boilerplate to makes sites like these using React and Node.d
 
@@ -25,7 +26,7 @@ Now your node server will host all the static files from the build folder
 ## Libraries
 This project uses:
 - Semantic-UI for the design: <https://react.semantic-ui.com/>
-- Webpack v1 for transpilation *yes I know I should be moving to v2 but I like how versitile my config is* <https://webpack.github.io/>
+- Webpack v1 for transpilation *yes I know I should be moving to v2 but I like how versatile my config is* <https://webpack.github.io/>
 - MobX is configured but not used in the project <https://mobx.js.org>
 - React <https://facebook.github.io/react>
-- Background uses a modified version Particles.js <https://github.com/VincentGarreau/particles.js/>
+- Background uses a modified version of Particles.js <https://github.com/VincentGarreau/particles.js/>
