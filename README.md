@@ -1,5 +1,5 @@
 # geekenforcer-boilerplate
-![alt text](https://s3-us-west-2.amazonaws.com/geekenforcer.com/header_red.png)
+![alt text](https://s3-us-west-2.amazonaws.com/geekenforcer.com/header_red_400.png)
 
 This is a template my site: www.geekenforcer.com. Any actual changes for the site will be reflected in the site's own repo. This is a boilerplate to makes sites like these using React and Node.d
 
